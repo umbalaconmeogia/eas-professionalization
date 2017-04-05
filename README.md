@@ -6,3 +6,4 @@ Soft skill | Developer | BrSE | PM | Manager
 Communication | Auto test | | Estimation |
 Presentation | CI/CD | | PMBok |
 Reading | | | |
+Mindmap | | | |
